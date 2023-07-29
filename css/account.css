@@ -1,0 +1,15 @@
+body{
+    background-color: black;
+}
+a{
+    color: white;
+}
+/* Hide scrollbar for Webkit browsers */
+::-webkit-scrollbar {
+    width: 0.5em; /* Adjust as needed */
+  }
+  
+  ::-webkit-scrollbar-thumb {
+    background-color: transparent; /* Hide the thumb */
+  }
+  
